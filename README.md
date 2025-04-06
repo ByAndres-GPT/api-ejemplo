@@ -41,7 +41,7 @@ CRUD de jugadores, categorías y entrenadores utilizando **Node.js, Express y Se
 2. Importar la base de datos
 3. Instalar las dependencias:
    ```sh
-   Abrir la terminal en la carpeta api-basica
+   Abrir la terminal en la carpeta api-ejemplo
    npm i
 4. Ejecutar el protecto:
    ```sh
